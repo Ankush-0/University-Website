@@ -1,0 +1,35 @@
+body {
+	background-image: url(uni.jpg);
+	background-size:auto;
+	background-position: center;
+	font-family: Arial, sans-serif;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+    height: 100%;
+}
+
+.container {
+	max-width: 800px;
+	margin-top: 180px;
+	padding: 50px;
+	background-color: rgba(0,0,0,0.7);
+	box-sizing: border-box;
+	text-align: center;
+}
+
+h1 {
+	font-size: 48px;
+	margin: 0 0 20px;
+}
+
+p {
+	font-size: 24px;
+	margin: 0 0 10px;
+}
+
+address {
+	font-style: normal;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
